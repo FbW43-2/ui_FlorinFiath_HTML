@@ -33,10 +33,14 @@ body {
 .inner-inner-square {
   width: 120px;
   height: 120px;
-  background-image: url(img/giphy.gif);
+ 
+  
+}
+
+.greta-backround {
+     background-image: url(img/giphy.gif);
 background-size: cover;
 background-position: center;
-  
 }
 .think-border {
     border: solid 20px black;
