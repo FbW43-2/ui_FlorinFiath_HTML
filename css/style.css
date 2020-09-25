@@ -107,3 +107,124 @@ body {
   background-position: center;
   border-radius: 40%;
 }
+/* Practice Project */
+
+.background-color-1 {
+  background-color: darkcyan;
+}
+
+.background-color-2 {
+  background-color: bisque;
+}
+
+.background-color-3 {
+  background-color: burlywood;
+}
+
+.parent-container-1 {
+     width: 1100px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.parent-container-2 {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+    width: 350px;
+    height: 430px;
+    margin: 80px;
+}
+
+.meme-square-1 {
+  width: 120px;
+  height: 120px;
+  border-radius: 1%;
+  margin: .1em;
+  padding: .3em;
+  position: relative;
+}
+
+.meme-square-4 {
+  width: 120px;
+  height: 120px;
+  border-radius: 1%;
+  margin: .1em;
+    padding: .3em;
+}
+.meme-circle-2 {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: .1em;
+    padding: .3em;
+}
+
+.meme-circle-3 {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: .1em;
+    padding: .3em;
+}
+
+.parent-container-3 {
+  display: flex;
+    width: 500px;
+    height: 430px;
+    margin: auto;
+}
+
+.parent-container-4 {
+  display: flex;
+ flex-direction: column;
+    width: 250px;
+    height: 370px;
+    margin: 20px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.text-box-1 {
+  display: flex;
+    width: 170px;
+    height: 90px;
+    margin: .1em;
+    padding: .3em;
+    
+}
+
+.text-box-2 {
+  display: flex;
+    width: 160px;
+    height: 70px;
+    margin: .1em;
+    padding: .3em;
+    
+    
+}
+
+.text-box-3 {
+  display: flex;
+    width: 160px;
+    height: 70px;
+    margin: .1em;
+    padding: .3em;   
+}
+
+.H2 {
+  display: flex;
+    width: 250px;
+    height: 390px;
+    margin: 20px;
+    text-align: center;
+    background-color:white;
+}
+
+.border-1 {
+  border: solid 3px black;
+}
+
